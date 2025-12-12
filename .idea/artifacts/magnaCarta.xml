@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jlink" name="magnaCarta">
+    <output-path>$PROJECT_DIR$/out/artifacts/magnaCarta</output-path>
+    <root id="root" />
+  </artifact>
+</component>
